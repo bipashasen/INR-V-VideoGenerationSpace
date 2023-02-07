@@ -90,7 +90,7 @@ python experiment_scripts/train_video_fvd_validation.py
 
 Here, use ```--checkpoint_path``` to locate the exact checkpoint. 
 
-[**Pretrained Checkpoint** [FVD = 138.23](https://drive.google.com/file/d/1eRjinIZuSvskHKTEL8qm334VbN7gmSjM/view?usp=share_link) for How2Sign-Faces (FVD reported in paper = **161.68**).
+[**Pretrained Checkpoint [FVD = 138.23]**](https://drive.google.com/file/d/1eRjinIZuSvskHKTEL8qm334VbN7gmSjM/view?usp=share_link) for How2Sign-Faces (FVD reported in paper = **161.68**).
 
 ## Experiments (coming out soon!)
 
