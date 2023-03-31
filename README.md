@@ -26,7 +26,7 @@ First and the last column are videos from the training dataset, the intermediate
     conda activate inrv
     ```
 
-2. Download [**How2Sign-Faces**](http://cvit.iiit.ac.in/images/datasets/inrv/How2Sign-Blobs.tar) (downloadable link) dataset.
+2. Download [**How2Sign-Faces**](http://cvit.iiit.ac.in/images/datasets/inrv/How2Sign-Blobs.tar) (downloadable link) dataset. [**Pretrained Checkpoint [FVD = 138.23]**](https://drive.google.com/file/d/1eRjinIZuSvskHKTEL8qm334VbN7gmSjM/view?usp=share_link) (FVD reported in paper = **161.68**).
 
 3. Untar the downloaded dataset and edit [```valid_how2sign_faces.txt```](datasets/valid_how2sign_faces.txt) in the [datasets](datasets) folder. Replace ```/scratch/bipasha31``` with your working directory in the file. Most of the experiments reported in the paper (Sec 5) are done using How2Sign-Faces. Rest of the datasets reported in the main paper will be released in sometime!
 
